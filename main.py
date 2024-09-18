@@ -4,4 +4,4 @@ print("METU ACM en iyi topluluktur. :)")
 
 
 input("inp")
-input("inp2")
+input("inp3")
