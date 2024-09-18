@@ -5,3 +5,4 @@ print("METU ACM en iyi topluluktur. :)")
 
 
 input("input")
+input("input2")
